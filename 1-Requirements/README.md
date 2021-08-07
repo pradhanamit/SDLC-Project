@@ -85,10 +85,22 @@ Since the system uses only open source software, it is free of cost..!!
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
+|      ID          |Description                          |Category                         |Status                         |
+|----------------|-------------------------------|-----------------------------|-----------------------------|
+|HR_01|Algorithum Design |scenario|Done|
+|HR_02|Modular Inverse |Implementation|Done|
+|HR_03|GCD Calculation|Implemented|Done|
+|HR_04|Complex Calculation |Implemented|Done|
+
+
 
 
 ##  Low level Requirements:
-In the low level requirement, we must have the knowledge of basic calculation like gcd,modular inverse.
--- ID | Description | Status (Implemented/Future)
+|      ID          |Description                          |  HLR_ID  |Status               |
+|----------------|-------------------------------|----------|-----------------------------|
+|LR_01|Values of n,N,alpha,beta|HR_01|Implemented|
+|LR_02|Mod calculation and find Inverse|HR_01,HR_02|Implemented|
+|LR_03|Loops Understanding|HR_02,HR_02|Implemented|
+|LR_04|xi,xii|HR_03|Implemented|
+
