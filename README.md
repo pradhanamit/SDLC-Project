@@ -22,7 +22,7 @@ Folder             | Description
 
 |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 |---------|----------------|----------------|---------------|-------------|--------------
-| Amit Kumar Pradhan  | Modular Inverse    | Nil     | Nil   |9   | YES    
+| Amit Kumar Pradhan  | Modular Inverse    |1     | Resolved by using build function   |1   | YES    
 
 ## Challenges Faced and How Was It Overcome
 
