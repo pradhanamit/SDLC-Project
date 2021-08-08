@@ -18,6 +18,11 @@ Folder             | Description
 `4-TestPlanAndOutput`  | Documents with test plans and procedures
 `5-Report`         | Documents with report 
 
+## Contributors List and Summary
+
+|  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+|---------|----------------|----------------|---------------|-------------|--------------
+| Amit Kumar Pradhan  | Modular Inverse    | Nil     | Nil   |9   | YES    
 
 ## Challenges Faced and How Was It Overcome
 
