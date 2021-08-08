@@ -7,7 +7,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-|[![Build status](https://ci.appveyor.com/api/projects/status/pjxh5g91jpbh7t84?svg=true)](https://ci.appveyor.com/project/tygerbytes/resourcefitness)|![](https://www.code-inspector.com/project/26141/score/svg) ![](https://www.code-inspector.com/project/26141/status/svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/312f63ea045e45ac9319a8634c656f2c)](https://www.codacy.com/gh/pradhanamit/SDLC-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pradhanamit/SDLC-Project&amp;utm_campaign=Badge_Grade)|test|[![Contribution Check - Git Inspector](https://github.com/pradhanamit/SDLC-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/pradhanamit/SDLC-Project/actions/workflows/gitinspector.yml)|
+|[![Build status](https://ci.appveyor.com/api/projects/status/ltld0n7uep8s7137?svg=true)](https://ci.appveyor.com/project/pradhanamit/sdlc-project-i294m)|![](https://www.code-inspector.com/project/26141/score/svg) ![](https://www.code-inspector.com/project/26141/status/svg) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/312f63ea045e45ac9319a8634c656f2c)](https://www.codacy.com/gh/pradhanamit/SDLC-Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pradhanamit/SDLC-Project&amp;utm_campaign=Badge_Grade)|test|[![Contribution Check - Git Inspector](https://github.com/pradhanamit/SDLC-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/pradhanamit/SDLC-Project/actions/workflows/gitinspector.yml)|
 
 ## Folder Structure
 Folder             | Description
