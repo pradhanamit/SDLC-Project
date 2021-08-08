@@ -21,5 +21,5 @@ Folder             | Description
 
 ## Challenges Faced and How Was It Overcome
 
-1. Diffucult to implement Moodular Inverse due to Complex Calculation -> resolved through loops
+1. Diffucult to implement Modular Inverse due to Complex Calculation -> resolved through loops
 2. Diffcult to find calculation of x2i,a2i,b2i -> later resolved
